@@ -10,6 +10,8 @@ End-to-end system for generating viral TikTok/Instagram content promoting a prod
 1. **Carousels** — sets of 7-8 styled images per topic (Gemini image generation)
 2. **Mannequin videos** — outfit-change animations using morph suit figures (Gemini + Kling 3)
 
+> Need a format beyond these two (animated explainer, real-footage montage, clip factory from long-form, talking-head edit, dubbing, "make a video like this <URL>")? Hand off to the [`openmontage`](../openmontage/SKILL.md) skill instead.
+
 ---
 
 ## Shared tools
